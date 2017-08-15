@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-jsp-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: alvaro
+Implementation-Vendor-Id: com.devglan
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ jsp-example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
